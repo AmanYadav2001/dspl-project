@@ -1,1 +1,2 @@
-# dspl-project
+DSPL PROJECT HEART DISEASE PREDICTION
+Develop a machine learning model that can predict the likelihood of an individual developing heart disease based on their medical and lifestyle attributes. This model should assist healthcare professionals in identifying at-risk patients early, enabling them to take preventive measures and provide timely interventions to reduce the incidence of heart disease.`
